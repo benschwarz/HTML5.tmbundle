@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;input type="search" name="${2:name}" placeholder="Search..." autofocus&gt;</string>
+	<key>name</key>
+	<string>Input: Search</string>
+	<key>tabTrigger</key>
+	<string>input</string>
+	<key>uuid</key>
+	<string>822797A6-FC42-49F2-8EB6-D9928F3E5C76</string>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script type="text/javascript"&gt;
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+&lt;/script&gt;
+&lt;script type="text/javascript"&gt;
+	try {
+		var pageTracker = _gat._getTracker("$1");
+		pageTracker._trackPageview();
+	} catch(err) {}
+&lt;/script&gt;</string>
+	<key>name</key>
+	<string>Analytics</string>
+	<key>tabTrigger</key>
+	<string>analytics</string>
+	<key>uuid</key>
+	<string>DF08E004-8409-488E-822B-A82C0A454917</string>
+</dict>
+</plist>
