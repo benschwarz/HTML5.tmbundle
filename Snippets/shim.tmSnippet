@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!--[if IE]&gt;
+&lt;script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"&gt;&lt;/script&gt;
+&lt;![endif]--&gt;</string>
+	<key>name</key>
+	<string>shim</string>
+	<key>tabTrigger</key>
+	<string>shim</string>
+	<key>uuid</key>
+	<string>0CEE9614-DA7F-418A-B92D-DF09BF978D58</string>
+</dict>
+</plist>
