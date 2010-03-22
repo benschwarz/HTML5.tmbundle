@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>&lt;!--[if IE]&gt;
-&lt;script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"&gt;&lt;/script&gt;
+	&lt;script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"&gt;&lt;/script&gt;
 &lt;![endif]--&gt;</string>
 	<key>name</key>
 	<string>shim</string>
